@@ -4,6 +4,8 @@ https://www.patreon.com/posts/paey-24-m-vaedd-154487477?utm_medium=clipboard_cop
 
 FREE LIFE TIME VPS
 
+Repository URL: https://github.com/NotGamerPiie/pie_vps
+
 1 - https://github.com/NotGamerPiie/idx-vps
 
 2 - https://idx.google.com/
